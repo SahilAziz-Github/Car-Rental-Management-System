@@ -1,0 +1,1 @@
+﻿select Name,Designation,Password from Login where Email ='p@gmail.com' ;

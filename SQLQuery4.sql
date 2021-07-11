@@ -1,0 +1,1 @@
+﻿select BookingID , DateTimen from Booking where Email ='p@gmail.com' AND nStatus = 'Approved' ;
